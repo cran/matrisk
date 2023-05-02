@@ -1,0 +1,16 @@
+26edb2e9c67240f5c22fd629e160f8db *DESCRIPTION
+e86405f5b4e333e036a337944f725f42 *NAMESPACE
+883c5fa87da0bbde1bdfb5c65435571f *R/f_ES.R
+a5c9081472fb94c0bf3f4c694a43f138 *R/f_VaR.R
+bf04ec05bd4fc5081ad6e00d28117e0b *R/f_compile_quantile.R
+3d485bca81db756b0e963773a6146456 *R/f_distrib.R
+04dfb2a745c8bde8c5f8966fc4e336c5 *R/f_distrib_histo.R
+3cb0267d447116bd94bb5454f8b397d6 *data/data_US.rda
+9e4e519e3f447485c39812a85669c5f8 *data/data_euro.rda
+028bb6a2238009d44186fdd32ebf2bee *man/data_US.Rd
+f813dfe675ab76d5b1c379e2414da101 *man/data_euro.Rd
+6ad037852dbea9e4b7e27387e184ee88 *man/f_ES.Rd
+e26caf27752f6ee5ec94c990fca49247 *man/f_VaR.Rd
+c750a7730d2a35262bb24be258c73c9d *man/f_compile_quantile.Rd
+6179939a88ac1fd64ed72e248f834620 *man/f_distrib.Rd
+9df5ed4934b96dfa8763dce35aa250c8 *man/f_distrib_histo.Rd
